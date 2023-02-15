@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<feed>
+	 
+	 <title>Feed de Atom Angel</title>
+	 <subtitle>Actividad RA3.2 – Sindicación de contenidos con Atom.</subtitle>
+	 <updated>2023-02-03 18:30:00</updated>
+	 <author>
+	   <name>Angel Cubero</name>
+	   <email>angelcuberoolivares@gmail.com</email>
+	   <link href="https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea2-JuanmaAra.git"/>
+	 </author>
+	 
+	 <entry>
+	 <author>
+	   <name>Angel Cubero Olivares</name>
+	   <link href="https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea2-JuanmaAra.git"/>
+	 </author>
+	   <title>Entrada 1</title>
+	   <updated>2023-02-03 18:30:00</updated>
+	   <summary>Unas 3.000 personas malviven en campamentos chabolistas en este municipio de 
+	   Almería, donde el Ayuntamiento ha ordenado derribar uno de los más poblados.</summary>
+	 </entry> 
+
+	<entry>
+	 <author>
+	   <name>Angel Cubero Olivares</name>
+	   <link href="https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea2-JuanmaAra.git"/>
+	 </author>
+	   <title>Entrada 1</title>
+	   <updated>2023-02-03 18:30:00</updated>
+	   <summary>Unas 3.000 personas malviven en campamentos chabolistas en este municipio de 
+	   Almería, donde el Ayuntamiento ha ordenado derribar uno de los más poblados.</summary>
+	 </entry> 
+	 
+	 <entry>
+	 <author>
+	   <name>Angel Cubero Olivares</name>
+	   <link href="https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea2-JuanmaAra.git"/>
+	 </author>
+	   <title>Entrada 1</title>
+	   <updated>2023-02-03 18:30:00</updated>
+	   <summary>Unas 3.000 personas malviven en campamentos chabolistas en este municipio de 
+	   Almería, donde el Ayuntamiento ha ordenado derribar uno de los más poblados.</summary>
+	 </entry> 
+
+	 <entry>
+	 <author>
+	   <name>Angel Cubero Olivares</name>
+	   <link href="https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea2-JuanmaAra.git"/>
+	 </author>
+	   <title>Entrada 1</title>
+	   <updated>2023-02-03 18:30:00</updated>
+	   <summary>Unas 3.000 personas malviven en campamentos chabolistas en este municipio de 
+	   Almería, donde el Ayuntamiento ha ordenado derribar uno de los más poblados.</summary>
+	 </entry> 
+	</feed>
